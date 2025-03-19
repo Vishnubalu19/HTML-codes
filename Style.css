@@ -1,0 +1,23 @@
+form{
+    margin-left:  25% ;
+    margin-right: 25%;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: aquamarine;
+    text-align: center;
+    height: 200px;
+    width:fit-content
+ 
+
+}
+button{
+    background-color: chartreuse;
+}
+input{
+    background-color: violet;
+}
+body{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Plain-HD-Photos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
